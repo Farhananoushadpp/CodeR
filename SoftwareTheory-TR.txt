@@ -1,0 +1,37 @@
+Here are the topics to focus on:
+
+Basic Programming Fundamentals & OOPS: Understand core concepts like variables, data types, control flow (loops, conditionals), and functions. Get a high-level grasp of Object-Oriented Programming (OOPs) principles: what are objects, classes, and the basic ideas behind encapsulation, inheritance, and polymorphism.
+SDLC (Software Development Life Cycle): Learn about the typical phases a software project goes through, from ideation to maintenance.
+Hashing (MD5, SHA): Understand the concept of hashing and its primary uses (e.g., verifying data integrity). You don't need to know the algorithms in detail, just their purpose.
+ASCII: Understand what ASCII is and its role in representing characters as numbers.
+Hex codes & RGB: Learn how colors are represented digitally using hexadecimal values and the RGB color model.
+HTTP Response Codes (200, 400, 404, 500): Familiarize yourself with these common codes and what they indicate about the success or failure of a web request.
+API (Application Programming Interface) Basics: Understand what an API is and why it's used to allow different software systems to communicate.
+Common File Types: Recognize common file extensions you'll encounter in development (e.g., .txt, .json, .xml, .html, .css, .js).
+Types of APIs (REST, GraphQL, SOAP - Basic Concept): Get a very high-level overview of what differentiates these common API architectural styles. Focus on understanding that different approaches exist.
+Interpreted vs. Compiled Languages: Understand the fundamental difference in how code execution differs between interpreted and compiled programming languages.
+HTML & HTML5 Basics: Learn the basic structure of an HTML page and the purpose of common tags for structuring content. Be aware of what HTML5 brought in terms of new features (like semantic tags, multimedia support).
+CSS Basics (Awareness of SASS, LESS, Bootstrap): Understand the role of CSS in styling web pages. Learn about basic selectors, properties, and values. Be aware that tools like SASS/LESS help manage CSS and frameworks like Bootstrap provide pre-built styles, but focus on core CSS first.
+SEO Basic Concept: Understand the general idea of how websites are optimized to rank higher in search engine results.
+GIT (Version Control System) Fundamentals: This is very important. Learn what Git is, why version control is essential for collaboration and tracking changes, and the purpose of basic commands (clone, add, commit, push, pull).
+GitLab, GitHub (Introduction to CI/CD): Understand that these are popular platforms for hosting Git repositories. Get a basic idea that they offer features for automating software delivery processes (Continuous Integration/Continuous Deployment).
+Command Line Interface (CLI) & Bash/Shell Scripting Basics: Become comfortable with navigating your file system and running basic commands in a terminal. Understand what a shell script is and its purpose for automating simple tasks.
+Regex (Regular Expressions) - Basic Pattern Matching: Learn the fundamental idea of using patterns to search for and manipulate text. Understand a few basic metacharacters.
+Data Formats (JSON, XML, YAML) & Markup: Understand these common formats used for data exchange and configuration. Recognize their basic syntax and purpose.
+JavaScript (Awareness of ES5 & ES6): When you start with JavaScript, you'll encounter different versions. Understand that ES6 introduced significant new features and syntax improvements over ES5.
+Asynchronous vs. Synchronous Operations (Basics): Understand the core difference between tasks that block execution (synchronous) and those that allow other tasks to run while waiting (asynchronous).
+Web Storage Concepts (Sessions, JWT, Cookies): Learn about these common methods used in web development to store information about a user or their session.
+OpenAPI Specification (Swagger UI Awareness): Understand that OpenAPI is a standard for describing APIs and tools like Swagger UI can generate interactive documentation from these descriptions.
+Database Basics (SQL & NoSQL - Core Differences): Understand the fundamental difference between relational databases (like those using SQL) and non-relational (NoSQL) databases and when you might choose one over the other.
+Software Architecture & Design Principles (Basic Concepts): Get a high-level introduction to common ways software systems are structured and a few basic principles for writing good code (like modularity).
+Dry Code & Edge Cases: Understand the principle of "Don't Repeat Yourself" (DRY) in coding and the importance of thinking about unusual or extreme conditions (edge cases) when writing code.
+Basic Docker Concept: Understand the fundamental idea of containerization and what Docker helps achieve (packaging applications and their dependencies).
+Diagramming & Collaboration Tools (Draw.io, Miro board, Jamboard Awareness): Be aware of these tools that are commonly used for brainstorming, diagramming, and visual collaboration.
+Things to look for while learning:
+
+As you explore each topic, try to answer:
+
+What is this concept or tool?
+Why is it used or important in software development?
+How does it work at a very high level (avoid getting lost in deep technical details initially)?
+What are the key terms associated with it?
